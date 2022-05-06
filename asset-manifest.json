@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dacade-near-marketplace-ui/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/dacade-near-marketplace-ui/static/js/main.9fb98281.chunk.js",
+    "main.js.map": "/dacade-near-marketplace-ui/static/js/main.9fb98281.chunk.js.map",
+    "runtime-main.js": "/dacade-near-marketplace-ui/static/js/runtime-main.35cf1edc.js",
+    "runtime-main.js.map": "/dacade-near-marketplace-ui/static/js/runtime-main.35cf1edc.js.map",
+    "static/css/2.7db5339e.chunk.css": "/dacade-near-marketplace-ui/static/css/2.7db5339e.chunk.css",
+    "static/js/2.72ff8b41.chunk.js": "/dacade-near-marketplace-ui/static/js/2.72ff8b41.chunk.js",
+    "static/js/2.72ff8b41.chunk.js.map": "/dacade-near-marketplace-ui/static/js/2.72ff8b41.chunk.js.map",
+    "static/js/3.fbf7c495.chunk.js": "/dacade-near-marketplace-ui/static/js/3.fbf7c495.chunk.js",
+    "static/js/3.fbf7c495.chunk.js.map": "/dacade-near-marketplace-ui/static/js/3.fbf7c495.chunk.js.map",
+    "index.html": "/dacade-near-marketplace-ui/index.html",
+    "static/css/2.7db5339e.chunk.css.map": "/dacade-near-marketplace-ui/static/css/2.7db5339e.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/dacade-near-marketplace-ui/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.72ff8b41.chunk.js.LICENSE.txt": "/dacade-near-marketplace-ui/static/js/2.72ff8b41.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/dacade-near-marketplace-ui/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/sandwich.3520c3ca.jpg": "/dacade-near-marketplace-ui/static/media/sandwich.3520c3ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35cf1edc.js",
+    "static/css/2.7db5339e.chunk.css",
+    "static/js/2.72ff8b41.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.9fb98281.chunk.js"
+  ]
+}
